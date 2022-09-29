@@ -8,5 +8,5 @@ Prepend - https://github.com to the links
 |  /mundher/NSFW   |   NSFW id-ing using Mixture of Convolutional Neural Networks        |
 |/liaoxiong3x/DeepCreamPy| De-censoring Hentai | 
 |  /yuanxiaosc/DeepNude-an-Image-to-Image-technology   | Dont want to explain       |
-|     |           |
+|   cirbuk/skin-detection  |   Skin Color change ( useful for auto edits)        |
 |     |           |

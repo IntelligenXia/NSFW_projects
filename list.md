@@ -9,4 +9,8 @@ Prepend - https://github.com to the links
 |/liaoxiong3x/DeepCreamPy| De-censoring Hentai | 
 |  /yuanxiaosc/DeepNude-an-Image-to-Image-technology   | Dont want to explain       |
 |   cirbuk/skin-detection  |   Skin Color change ( useful for auto edits)        |
+|  /zuruoke/watermark-removal   |  Removes watermark from images ( to be tested)         |
 |     |           |
+|     |           |
+
+

@@ -10,7 +10,7 @@ Prepend - https://github.com to the links
 |  /yuanxiaosc/DeepNude-an-Image-to-Image-technology   | Dont want to explain       |
 |   cirbuk/skin-detection  |   Skin Color change ( useful for auto edits)        |
 |  /zuruoke/watermark-removal   |  Removes watermark from images ( to be tested)         |
-|     |           |
+|  braindotai/Watermark-Removal-Pytorch   |    Watermark removal (PyTorch)       |
 |     |           |
 
 

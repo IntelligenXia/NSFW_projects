@@ -12,7 +12,7 @@ Prepend - https://github.com to the links
 |  /zuruoke/watermark-removal   |  Removes watermark from images ( to be tested)         |
 |  braindotai/Watermark-Removal-Pytorch   |    Watermark removal (PyTorch)       |
 | /porn-vault/porn-vault    |  Mange your porn collection         |
-|     |           |
+|  https://github.com/BoobBot   |    Self explanatory       |
 |     |           |
 
 

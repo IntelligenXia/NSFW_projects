@@ -1,6 +1,6 @@
 Prepend - https://github.com to the links 
 
-|*| Link      | Description |
+|| Link      | Description |
 |--------| ----------- | ----------- |
 |1| /alex000kim/nsfw_data_scraper | NSFW Data Scraper       |
 |2| /rlleshi/phar   |  Porn Human Action Recognition        |
@@ -14,5 +14,6 @@ Prepend - https://github.com to the links
 |10| /porn-vault/porn-vault    |  Mange your porn collection         |
 |11| /BoobBot   |    Self explanatory       |
 |12| /LucasLeandro1204/Pornsearch  |   Self Explanatory        |
+|13|/AUTOMATIC1111/stable-diffusion-webui|The UI version of stable diffusion - NSFW enabled|
 
 

@@ -15,5 +15,5 @@ Prepend - https://github.com to the links
 |11| /BoobBot   |    Self explanatory       |
 |12| /LucasLeandro1204/Pornsearch  |   Self Explanatory        |
 |13|/AUTOMATIC1111/stable-diffusion-webui|The UI version of stable diffusion - NSFW enabled|
-
+|14| /mazurkin/boobs-detector |HOG based boob detector|
 

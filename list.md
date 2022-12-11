@@ -16,4 +16,4 @@ Prepend - https://github.com to the links
 |12| /LucasLeandro1204/Pornsearch  |   Self Explanatory        |
 |13|/AUTOMATIC1111/stable-diffusion-webui|The UI version of stable diffusion - NSFW enabled|
 |14| /mazurkin/boobs-detector |HOG based boob detector|
-
+|14| /mikf/gallery-dl |Download all images from the galleries |
